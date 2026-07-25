@@ -17,7 +17,7 @@
 - 旅程隐喻图：大物件/两端场景 + 路线，适合变化过程。
 - 判断关系卡：证据/观察卡 + 关系链路，适合认知判断。
 
-详细映射见 [画面模式说明](xixi-xiaoguang-illustrations/references/modes.md)。
+详细映射见 [画面模式说明](xixi-xiaoguang-illustrations/references/modes.md)，角色不可漂移元素见 [角色锚点](xixi-xiaoguang-illustrations/references/character.md)。
 
 ## 产出
 
@@ -106,7 +106,9 @@ Use $xixi-xiaoguang-illustrations 为“证据不等于结论，先看见关系�
     ├── assets/xixi-face-reference.png
     ├── assets/upstream-archive/
     └── references/
-        └── modes.md
+        ├── modes.md
+        ├── character.md
+        └── qa.md
 ```
 
 ## 致谢与许可
