@@ -104,7 +104,6 @@ Use $xixi-xiaoguang-illustrations 为“证据不等于结论，先看见关系�
     ├── agents/openai.yaml
     ├── assets/master-reference.png
     ├── assets/xixi-face-reference.png
-    ├── assets/upstream-archive/
     └── references/
         ├── modes.md
         ├── character.md
