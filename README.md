@@ -88,7 +88,7 @@ Use $xixi-xiaoguang-illustrations 为“证据不等于结论，先看见关系�
 2. 先输出 shot list；一张图只选一个判断或结构，再选择一种画面模式。
 3. 只读取西西相貌参考和该模式的对应样图。
 4. 单张生成并检查人物稳定性、互动关系、信息表达和文字。
-6. 保存最终 PNG 并说明用途与路径。
+5. 保存最终 PNG 并说明用途与路径。
 
 ## 目录结构
 
@@ -113,4 +113,6 @@ Use $xixi-xiaoguang-illustrations 为“证据不等于结论，先看见关系�
 
 ## 致谢与许可
 
-本仓库改造自 Ian 的 `ian-xiaohei-illustrations`，保留其 MIT 许可证与衍生作品署名说明；西西、小光和主参考图为本项目的视觉资产。详见 [NOTICE.md](NOTICE.md) 与 [LICENSE](LICENSE)。
+本仓库改造自 Ian 的 `ian-xiaohei-illustrations`，保留其 MIT 许可证与衍生作品署名说明。
+
+Skill 代码与文档使用 [MIT License](LICENSE)；西西、小光及仓库中的项目专属视觉图片不包含在 MIT 授权中，使用边界见 [Visual Asset License](ASSET-LICENSE.md)。来源与改造说明见 [NOTICE.md](NOTICE.md)。
