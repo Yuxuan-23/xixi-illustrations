@@ -1,0 +1,6 @@
+interface:
+  display_name: "西西 × 小光讲解图"
+  short_description: "为中文内容生成西西与小光共同参与的温柔水彩手绘讲解图"
+  default_prompt: "Use $xixi-xiaoguang-illustrations 为这篇中文内容设计并生成几张西西与小光共同参与的手绘讲解图。"
+policy:
+  allow_implicit_invocation: true
